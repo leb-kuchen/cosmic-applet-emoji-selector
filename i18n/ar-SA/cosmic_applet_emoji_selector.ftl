@@ -1,0 +1,12 @@
+default-1f1e6-1f1e8 = علم
+tts-1f1e6-1f1e8 = علم: جزيرة أسينشين
+default-1f1ea-1f1e6 = علم
+tts-1f1ea-1f1e6 = علم: سبتة ومليلية
+default-1f1f2-1f1f4 = علم
+tts-1f1f2-1f1f4 = علم: ماكاو الصينية (منطقة إدارية خاصة)
+default-1f1f2-1f1f8 = علم
+tts-1f1f2-1f1f8 = علم: مونتيسيرات
+default-1f1fa-1f1fe = علم
+tts-1f1fa-1f1fe = علم: أوروغواي
+default-1f377 = كأس عصير
+tts-1f377 = كأس عصير
